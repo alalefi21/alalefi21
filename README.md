@@ -1,51 +1,89 @@
-# Hi, I'm Alaeddine lefi 👋
+# ✨ Hello World, I'm Alaeddine Lefi ✨
 
-## 🎓 Computer Engineering Student at ESPRIT
+## 🚀 Future Computer Engineer | Open Source Enthusiast | Tech Explorer
 
-📧 For business inquiries: [alaeddine.lefi@esprit.tn](mailto:alaeddine.lefi@esprit.tn)
+📫 **Let's Connect**  
+[![Email](https://img.shields.io/badge/-alaeddine.lefi@esprit.tn-0078D4?logo=microsoft-outlook)](mailto:alaeddine.lefi@esprit.tn) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
 
-![Profile Views](https://komarev.com/ghpvc/?username=alaeddinelfi&label=Profile%20views&color=0e75b6&style=flat) • ![Stars](https://img.shields.io/github/stars/alaeddinelfi?label=Stars) • ![Rank](https://img.shields.io/badge/Commits%20Rank-%2329-blue) 
-
----
-
-### 📌 About Me
-- 🚀 Joined GitHub 2 years ago  
-- 👥 Followed by 42 users  
-
-### 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alalefi21&show_icons=true&count_private=true&theme=radical)
-- 💻 784 Commits  
-- 🔄 23 Pull requests  
-- 🐛 15 Issues  
-
-### 🌟 Notable Contributions
-[![Microsoft](https://img.shields.io/badge/-Microsoft-666666?logo=microsoft)](https://github.com/microsoft) • [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/github)  
-[![Open Source](https://img.shields.io/badge/-Open_Source-3DA639?logo=opensourceinitiative)](https://github.com/open-source) • [![ESPRI](https://img.shields.io/badge/-ESPRIT-003366)](https://www.esprit.tn)
+![Profile Header](https://github-readme-profile-header.vercel.app/api?username=alalefi21&bg_color=45,3a1c71,d76d77,ffaf7b&text_color=ffffff&title_color=ffffff)
 
 ---
 
-### 🏆 Community Stats
-![Contributed Repos](https://img.shields.io/badge/Contributed_to-12_repositories-blue)  
-![Organizations](https://img.shields.io/badge/Member_of-3_organizations-orange)  
-![Following](https://img.shields.io/badge/Following-89_users-green)  
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=alalefi21&label=Profile+Views&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/alalefi21?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/alalefi21?label=Stars&color=gold&style=flat-square)
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alalefi21&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alalefi21&theme=dracula" />
+</div>
 
 ---
 
-### 🔥 Coding Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=alalefi21&theme=radical)
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)
 
 ---
 
-### 🏅 Achievements
-**@alaeddinelfi - Jan 2024**  
-🏆 Top 10% contributors in ESPRIT GitHub community  
-📈 5K+ views on my technical blog posts  
+## 🌟 Featured Projects
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alalefi21&repo=your-repo-1&theme=radical)](https://github.com/alalefi21/your-repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alalefi21&repo=your-repo-2&theme=radical)](https://github.com/alalefi21/your-repo-2)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Interests
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) • ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)  
-![AI](https://img.shields.io/badge/-Artificial_Intelligence-FF6F00) • ![Web Dev](https://img.shields.io/badge/-Web_Development-4285F4)  
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How I Built My Perfect GitHub Profile](https://yourblog.com/post1)
+- [My Journey as a Computer Engineering Student](https://yourblog.com/post2)
+<!-- BLOG-POST-LIST:END -->
 
-### 🌍 Tags
-#Tunisia • #ESPRIT • #OpenSource • #Engineering • #WebDev
+---
+
+## 🎯 Goals for 2026
+- [x] Contribute to 5+ open source projects
+- [ ] Publish 10 technical blog posts
+- [ ] Learn 3 new technologies
+- [ ] Build a personal portfolio website
+
+---
+
+## 🎨 Fun Facts
+- 🎮 I'm a casual gamer
+- ☕ Coffee enthusiast
+- 📚 Love reading tech blogs
+- 🌍 Passionate about sustainable tech
+
+<div align="center">
+  
+![Snake Animation](https://github.com/alalefi21/alalefi21/blob/output/github-contribution-grid-snake.svg)
+
+</div>
