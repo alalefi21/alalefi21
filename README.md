@@ -4,7 +4,7 @@
 
 📧 For business inquiries: [alaeddine.lefi@esprit.tn](mailto:alaeddine.lefi@esprit.tn)
 
-![Profile Views](https://komarev.com/ghpvc/?username=alaeddinelfi&label=Profile%20views&color=0e75b6&style=flat) • ![Stars](https://img.shields.io/github/stars/alaeddinelfi?label=Stars) • ![Rank](https://img.shields.io/badge/Commits%20Rank-%2329-blue) • ![WakaTime](https://wakatime.com/badge/user/yourwakatimeid.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=alaeddinelfi&label=Profile%20views&color=0e75b6&style=flat) • ![Stars](https://img.shields.io/github/stars/alaeddinelfi?label=Stars) • ![Rank](https://img.shields.io/badge/Commits%20Rank-%2329-blue) 
 
 ---
 
@@ -13,7 +13,7 @@
 - 👥 Followed by 42 users  
 
 ### 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaeddinelfi&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alalefi21&show_icons=true&count_private=true&theme=radical)
 - 💻 784 Commits  
 - 🔄 23 Pull requests  
 - 🐛 15 Issues  
