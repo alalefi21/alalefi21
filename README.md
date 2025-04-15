@@ -32,7 +32,7 @@
 ---
 
 ### 🔥 Coding Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=alaeddinelfi&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alalefi21&theme=radical)
 
 ---
 
