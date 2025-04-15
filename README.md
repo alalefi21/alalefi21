@@ -4,8 +4,8 @@
 
 📫 **Let's Connect**  
 [![Email](https://img.shields.io/badge/-alaeddine.lefi@esprit.tn-0078D4?logo=microsoft-outlook)](mailto:alaeddine.lefi@esprit.tn) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alaeddine-lefi-5851b9252/)) 
+[![Instagram ](https://www.instagram.com/_ala.lefi_/)
 
 ![Profile Header](https://github-readme-profile-header.vercel.app/api?username=alalefi21&bg_color=45,3a1c71,d76d77,ffaf7b&text_color=ffffff&title_color=ffffff)
 
