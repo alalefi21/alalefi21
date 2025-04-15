@@ -4,8 +4,8 @@
 
 📫 **Let's Connect**  
 [![Email](https://img.shields.io/badge/-alaeddine.lefi@esprit.tn-0078D4?logo=microsoft-outlook)](mailto:alaeddine.lefi@esprit.tn) 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alaeddine-lefi-5851b9252/)) 
-[![Instagram ](https://www.instagram.com/_ala.lefi_/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/alaeddine-lefi-5851b9252/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)](https://www.instagram.com/_ala.lefi_/)
 
 ![Profile Header](https://github-readme-profile-header.vercel.app/api?username=alalefi21&bg_color=45,3a1c71,d76d77,ffaf7b&text_color=ffffff&title_color=ffffff)
 
@@ -61,10 +61,10 @@
 ---
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My Perfect GitHub Profile](https://yourblog.com/post1)
-- [My Journey as a Computer Engineering Student](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
+- Building Infinite AI Web: The Journey Begins [pt1]
+- How to Integrate Your Poe.com AI Bot into Your Website: A Step-by-Step Guide
+- My "solution" to integrate ChatGPT into any database
+- Building an Infinite Website with Flask and OpenAI's download
 
 ---
 
