@@ -51,7 +51,7 @@
 
 
 
-## 🎯 Goals for 2026
+## 🎯 Goals for 2025
 - [ ] Contribute to 5+ open source projects
 - [ ] Publish 10 technical blog posts
 - [ ] Learn 3 new technologies
