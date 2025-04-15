@@ -49,16 +49,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-[![Prosit 1](https://github-readme-stats.vercel.app/api/pin/?username=alalefi21&repo=prosit-1&theme=radical)](https://github.com/alalefi21/prosit-1)
-[![AA Project](https://github-readme-stats.vercel.app/api/pin/?username=alalefi21&repo=aa&theme=radical)](https://github.com/alalefi21/aa)
-[![ProjetWay](https://github-readme-stats.vercel.app/api/pin/?username=zaineb-ferchichi&repo=projetway&theme=radical)](https://github.com/zaineb-ferchichi/projetway)
-[![Symfony Project](https://github-readme-stats.vercel.app/api/pin/?username=zaineb-ferchichi&repo=symfony_projetway&theme=radical)](https://github.com/zaineb-ferchichi/symfony_projetway)
-
-</div>
 
 
 ## 🎯 Goals for 2026
