@@ -53,8 +53,8 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alalefi21&repo=repo-name-1&theme=radical)](https://github.com/alalefi21/repo-prosit-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alalefi21&repo=repo-name-2&theme=radical)](https://github.com/alalefi21/repo-projetway)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alalefi21&repo=repo-prosit-1&theme=radical)](https://github.com/alalefi21/repo-prosit-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alalefi21&repo=repo-projetway&theme=radical)](https://github.com/alalefi21/repo-projetway)
 
 </div>
 
