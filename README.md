@@ -52,7 +52,7 @@
 
 
 ## 🎯 Goals for 2026
-- [] Contribute to 5+ open source projects
+- [ ] Contribute to 5+ open source projects
 - [ ] Publish 10 technical blog posts
 - [ ] Learn 3 new technologies
 - [x] Build a personal portfolio website
