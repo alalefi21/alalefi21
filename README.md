@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/alaeddine-lefi-5851b9252/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)](https://www.instagram.com/_ala.lefi_/)
 
-![Profile Header](https://github-readme-profile-header.vercel.app/api?username=alalefi21&bg_color=45,3a1c71,d76d77,ffaf7b&text_color=ffffff&title_color=ffffff)
+![Profile Header](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alalefi21&theme=github_dark)
 
 ---
 
@@ -60,13 +60,8 @@
 
 ---
 
-## 📝 Latest Blog Posts
-- Building Infinite AI Web: The Journey Begins [pt1]
-- How to Integrate Your Poe.com AI Bot into Your Website: A Step-by-Step Guide
-- My "solution" to integrate ChatGPT into any database
-- Building an Infinite Website with Flask and OpenAI's download
 
----
+
 
 ## 🎯 Goals for 2026
 - [x] Contribute to 5+ open source projects
@@ -78,12 +73,12 @@
 
 ## 🎨 Fun Facts
 - 🎮 I'm a casual gamer
-- ☕ Coffee enthusiast
 - 📚 Love reading tech blogs
 - 🌍 Passionate about sustainable tech
 
 <div align="center">
   
-![Snake Animation](https://github.com/alalefi21/alalefi21/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
